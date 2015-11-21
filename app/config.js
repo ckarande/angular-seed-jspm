@@ -19,15 +19,13 @@ System.config({
     "angular-route": "github:angular/bower-angular-route@1.4.8",
     "babel": "npm:babel-core@5.8.34",
     "babel-runtime": "npm:babel-runtime@5.8.34",
+    "ckarande/version-jspm-component": "github:ckarande/version-jspm-component@master",
     "core-js": "npm:core-js@1.2.6",
     "h5bp/html5-boilerplate": "github:h5bp/html5-boilerplate@5.2.0",
     "modernizr": "github:Modernizr/Modernizr@3.2.0",
     "normalize.css": "github:necolas/normalize.css@3.0.3",
-    "versionComponent": "github:ckarande/jspm_registry/versionComponent@dev",
+    "version-jspm-component": "github:ckarande/version-jspm-component@master",
     "github:angular/bower-angular-route@1.4.8": {
-      "angular": "github:angular/bower-angular@1.4.8"
-    },
-    "github:ckarande/jspm_registry/versionComponent@dev": {
       "angular": "github:angular/bower-angular@1.4.8"
     },
     "github:jspm/nodelibs-assert@0.1.0": {
