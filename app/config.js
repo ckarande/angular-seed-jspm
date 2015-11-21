@@ -24,7 +24,6 @@ System.config({
     "h5bp/html5-boilerplate": "github:h5bp/html5-boilerplate@5.2.0",
     "modernizr": "github:Modernizr/Modernizr@3.2.0",
     "normalize.css": "github:necolas/normalize.css@3.0.3",
-    "version-jspm-component": "github:ckarande/version-jspm-component@master",
     "github:angular/bower-angular-route@1.4.8": {
       "angular": "github:angular/bower-angular@1.4.8"
     },
